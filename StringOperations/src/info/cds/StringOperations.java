@@ -29,6 +29,6 @@ String s=dis1.readUTF();
 System.out.println(i);
 System.out.println(f);
 System.out.println(ch);
-
+System.out.println("hi");
 	}
 }
